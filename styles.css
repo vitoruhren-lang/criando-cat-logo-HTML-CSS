@@ -11,8 +11,10 @@ header {
     font-size: 32px;
     color: rgb(42, 122, 228)
 }
-selection  {
-    background:rgb (184, 156, 213);
+.chamada {
+
+    background: rgb (184, 156, 213);
+
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -27,9 +29,6 @@ h1 {
 
 p{
     font-size: 20px;
-}
-img {
-    min-height: 200px;
 }
 
 .categoria-videos{
